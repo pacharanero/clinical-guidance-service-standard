@@ -1,6 +1,6 @@
-# Independent Health and Care (IHAC) UK Service Standard on the Production and Distribution of Clinical Guidance
+# UK Service Standard on the Production and Distribution of Clinical Guidance
 
-DRAFT: February 2025
+DRAFT: 2025
 
 ## About this service standard
 
